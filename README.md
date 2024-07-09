@@ -72,10 +72,6 @@ covid19-research-dashboard/
 - [Dimensions COVID-19 dataset](https://www.dimensions.ai/news/dimensions-is-facilitating-access-to-covid-19-research/)
 - [GRID dataset on Google BigQuery](https://www.grid.ac/)
 
-## Acknowledgments
-
-We would like to acknowledge the contributions of researchers, funding agencies, and data providers who have made this dashboard possible.
-
 ## Deployment
 
 For deployment, you can package and deploy the dashboard via a cloud provider such as AWS, GCP, or Heroku. Ensure that your deployment environment has access to the required data sources and has the necessary packages installed.
