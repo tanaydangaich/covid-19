@@ -5,6 +5,8 @@
 
 This dashboard provides a comprehensive overview of COVID-19-related research, showcasing the latest publications, key research topics, prominent research organizations, and trends in research activity over time. The dashboard is built using Plotly Dash and is styled with the Darkly Bootstrap theme.
 
+DEMO - https://drive.google.com/file/d/1OrNAHXIrQbZ_Po6_w1WLDvDA75E3bZ4x/view?usp=share_link
+
 ## Features
 
 1. **Introduction**: An overview of the dashboard's objectives, data sources, and usage instructions.
